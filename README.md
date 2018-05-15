@@ -12,8 +12,12 @@ any spatial resolution is suppoed full of detailed water. but we perfer to MODIS
 # How to use this algorithm  
 1. we suppose you can run a python code in local machine.
 2. the main function is "Main.py"
-3. you can fill according bands in the blank and run it
+3. you can fill according bands in the blank and run it  
 
+
+# TODO
+1. I want to add more explanation in code further. It will be easier to understand if read my corresponding paper.
+2. A chart flow may help to better understand it. we will add such one in the future.
 
 
 
